@@ -1,0 +1,1 @@
+The project aims to create friendly, node-based user interface to World Painter scripting API.
